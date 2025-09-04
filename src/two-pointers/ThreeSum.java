@@ -1,5 +1,6 @@
-
 // Leetcode #15 3Sum or Three Sum
+// two pointers
+
 public class ThreeSum {
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);

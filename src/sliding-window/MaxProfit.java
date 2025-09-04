@@ -1,4 +1,6 @@
 // leetcode # 121 - best time to buy and sell stock
+// sliding window
+
 public class MaxProfit {
     public int maxProfit(int[] prices) {
         int maxP = 0;
