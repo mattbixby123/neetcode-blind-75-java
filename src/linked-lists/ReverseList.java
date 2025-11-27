@@ -1,3 +1,6 @@
+//Leetcode Problem #206: Reverse Linked List
+//Time complexity: O(n) - iteratate approach not recursive approach
+//Space complexity: O(1)
 /**
  * Definition for singly-linked list.
  * public class ListNode {
